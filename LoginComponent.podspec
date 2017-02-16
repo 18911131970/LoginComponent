@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "LoginComponent"
-  s.version      = "0.0.1"
+  s.version      = "0.0.4"
   s.summary      = "LoginComponent."
   s.description  = <<-DESC
   It is a loginComponent
